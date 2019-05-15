@@ -1,0 +1,3 @@
+rootProject.name = 'supplement_depot_3419'
+
+include ':app'
